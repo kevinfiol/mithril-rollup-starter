@@ -1,7 +1,13 @@
 # Mithril Rollup Starter
 
 ```bash
-# Install Dependencies
+# Clone this project
+npx degit kevinfiol/mithril-rollup-starter hello-world
+
+# Navigate to newly scaffolded project
+cd ./hello-world/
+
+# Install dependencies
 npm install
 
 # Watch for changes
