@@ -1,5 +1,7 @@
 # Mithril Rollup Starter
 
+A [Mithril.js](https://mithril.js.org) starter template.
+
 ```bash
 # Clone this project
 npx degit kevinfiol/mithril-rollup-starter hello-world
